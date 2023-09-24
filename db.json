@@ -25,7 +25,19 @@
         "postId": 1
       }
     ],
+    "users": [
+        {
+          "id": 1,
+          "name": "some name2",
+          "age": 19
+        },
+        {
+          "id": 2,
+          "name": "some name1",
+          "age": 19
+        }
+      ],
     "profile": {
-      "name": "typicodes"
+      "name": "VeronikaKan"
     }
   }
