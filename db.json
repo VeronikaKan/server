@@ -1,43 +1,73 @@
 {
-    "posts": [
+    "products": [
       {
         "id": 1,
-        "title": "Post 11"
+        "title": "All-Butter Croissant",
+        "img":"https://kulikov.com/upload/iblock/fe6/kruassan_klassicheskiy.jpg",
+        "price":"£12"
       },
       {
         "id": 2,
-        "title": "Post 21"
+        "title": "Croissant au fromage",
+        "img":"https://kulikov.com/upload/iblock/a65/kruassan_s_sirom.jpg",
+        "price":"£13.50"
       },
       {
         "id": 3,
-        "title": "Post 31"
+        "title": "Raspberry Danish ",
+        "img":"https://kulikov.com/upload/iblock/dd9/0mpbsi27jlxqip9s1jt0calejzojyv50/%D0%B4%D0%B0%D0%BD%D0%B8%D1%88%20%D1%81%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%82%D0%B8%D1%81%D1%8C%D0%B5%D1%80.png",
+        "price":"£13.50 "
+      },
+      {
+        "id": 4,
+        "title": " Croissant « Queue de cochon »",
+        "img":"https://kulikov.com/upload/iblock/41e/2vtczbg99n0qgwwhy2ritd6ykmp1y4f6/1376_mobile_1.png",
+        "price":"£12"
+      },
+      {
+        "id": 5,
+        "title": "Cinnabon au fromage cottage",
+        "img":"https://kulikov.com/upload/iblock/946/o231rxo7rz3p14vwmzba0mfc9ktm1fb9/IMG_0958.jpg",
+        "price":"£12"
+      },
+      {
+        "id": 6,
+        "title": "Pain Au Chocolat",
+        "img":"https://kulikov.com/upload/iblock/7b8/kruassan_shokoladniy.jpg",
+        "price":"£12"
       }
+     
     ],
     "comments": [
       {
         "id": 1,
-        "body": "some comment1",
+        "email" : "Sddsdsd@dff.com",
+        "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non facere ratione dolore, autem architecto veniam, minus quas distinctio quo porro fuga debitis unde esse. Quod ex voluptate provident optio quas! ",
         "postId": 1
       },
       {
         "id": 2,
-        "body": "some comment1",
+        "email" : "kdjdnn@sdd.com",
+        "body": "adipisicing elit. Non facere ratione dolore, autem architecto veniam, minus quas distinctio quo porro ",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "email" : "Kdfdaa@dd.com",
+        "body": "essitatibus eaque et est ex doloribus, in a eveniet, rerum aut, expedita rem repellat. Totam, asperiores provident ducimus? Recusandae voluptas et nostrum sed nulla rerum molestias maiores necessitatibus quia nam natus fugit voluptate iusto harum, commodi neque, quam ",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "email" : "Assdedf@edfe.com",
+        "body": " amet consectetur adipisicing elit. Ipsum explicabo deserunt tempora cumque distinctio reprehenderit iste soluta nobis deleniti impedit, tempore ",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "email" : "Smcncb@dcc.com",
+        "body": "voluptas et nostrum sed nulla rerum molestias maiores necessitatibus quia nam natus fugit voluptate iusto harum, commodi neque, quam laboriosam quasi? Deserunt assumenda quibusdam dolores repudiandae. ",
         "postId": 1
       }
-    ],
-    "users": [
-        {
-          "id": 1,
-          "name": "some name2",
-          "age": 19
-        },
-        {
-          "id": 2,
-          "name": "some name1",
-          "age": 19
-        }
-      ],
-    "profile": {
-      "name": "VeronikaKan"
-    }
+    ]
   }
