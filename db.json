@@ -4,73 +4,73 @@
         "id": 1,
         "title": "All-Butter Croissant",
         "img":"https://kulikov.com/upload/iblock/fe6/kruassan_klassicheskiy.jpg",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 2,
         "title": "Croissant au fromage",
         "img":"https://kulikov.com/upload/iblock/a65/kruassan_s_sirom.jpg",
-        "price":"£13.50"
+        "price":13.50
       },
       {
         "id": 3,
         "title": "Raspberry Danish ",
         "img":"https://kulikov.com/upload/iblock/dd9/0mpbsi27jlxqip9s1jt0calejzojyv50/%D0%B4%D0%B0%D0%BD%D0%B8%D1%88%20%D1%81%20%D0%BA%D1%80%D0%B5%D0%BC%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%82%D0%B8%D1%81%D1%8C%D0%B5%D1%80.png",
-        "price":"£13.50 "
+        "price":13.50 
       },
       {
         "id": 4,
         "title": " Croissant « Queue de cochon »",
         "img":"https://kulikov.com/upload/iblock/41e/2vtczbg99n0qgwwhy2ritd6ykmp1y4f6/1376_mobile_1.png",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 5,
         "title": "Cinnabon au fromage cottage",
         "img":"https://kulikov.com/upload/iblock/946/o231rxo7rz3p14vwmzba0mfc9ktm1fb9/IMG_0958.jpg",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 6,
         "title": "Pain Au Chocolat",
         "img":"https://kulikov.com/upload/iblock/7b8/kruassan_shokoladniy.jpg",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 7,
         "title": "Croissant « Pigtail » pistache",
         "img":"https://kulikov.com/upload/iblock/802/mkyza9l9ayy2pu6qiy4r1l90d60w234p/%D1%84%D0%B8%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%B0%20%281%29.png",
-        "price":"£12,50"
+        "price":12.50
       },
       {
         "id": 8,
         "title": "fromage « Queue de cochon »",
         "img":"https://kulikov.com/upload/iblock/d66/kagtyhb16zis4nu6i5830ssj97mxxwvr/%D1%81%D1%8B%D1%80%20%281%29.png",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 9,
         "title": "Pâte feuilletée à la pomme",
         "img":"https://kulikov.com/upload/iblock/5b1/8u6m3ha8to63zt0b3g1v0jgj1pkhoite/%D1%81%D0%BB%D0%BE%D0%B9%D0%BA%D0%B0%20%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE%20%281%29.png",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 10,
         "title": "Cinabre à la cannelle",
         "img":"https://kulikov.com/upload/iblock/264/6k4x9lntjsllz87p95mp0zv7277bydx6/IMG_0949.jpg",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 11,
         "title": " «Queue de cochon» nutella",
         "img":"https://kulikov.com/upload/iblock/cbf/xos1rjixri5oipdj1ow6i4v6rkr745q3/%D0%BD%D1%83%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%20%282%29.png",
-        "price":"£12"
+        "price":12
       },
       {
         "id": 12,
         "title": "Croissant « Pigtail » cerise",
         "img":"https://kulikov.com/upload/iblock/627/fhit6ms2v2d145ch8kcc3cat0ffpjyt5/%D0%B2%D0%B8%D1%88%D0%BD%D1%8F%20%281%29.png",
-        "price":"£12"
+        "price":12
       }
 
      
